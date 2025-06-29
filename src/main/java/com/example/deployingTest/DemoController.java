@@ -12,7 +12,7 @@ import java.util.Map;
 public class DemoController {
     @GetMapping("/")
     public String home() {
-        return "Hello from Spring Boot on Render!";
+        return "Hello from Spring Boot on Render new!";
     }
 
     // Simple POST endpoint
